@@ -1,0 +1,8 @@
+{
+  "name": "CAL Enterprises - Under Construction",
+  "description": "Notice that our website is currently under construction, featuring inquiry contact details, launch status, and notification updates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
